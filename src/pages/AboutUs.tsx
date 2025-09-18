@@ -31,9 +31,9 @@ const AboutUs = () => {
                 </h2>
                 <p className="text-muted-foreground text-lg leading-relaxed mb-6">
                   Founded in 2018, SS Stones has been serving the construction and architectural industry 
-                  with premium granite and marble solutions. Based in Chittoor, Andhra Pradesh, 
-                  we specialize in providing high-quality stone materials for residential 
-                  and commercial projects.
+                  with premium granite and marble solutions. Based in D.No 1, NMC Complex, Main Road, 
+                  Pakala, Chittoor, Andhra Pradesh - 517112, we specialize in providing high-quality 
+                  stone materials for residential and commercial projects.
                 </p>
                 <p className="text-muted-foreground text-lg leading-relaxed mb-6">
                   Our commitment to quality and customer satisfaction has made us a 

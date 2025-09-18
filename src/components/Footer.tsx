@@ -44,7 +44,7 @@ const Footer = () => {
               <h3 className="text-3xl font-bold mb-4">
                 SS STONES
                 <span className="text-granite-gold block text-sm font-normal tracking-widest mt-1">
-                  Chittoor, Andhra Pradesh
+                  Pakala, Chittoor, Andhra Pradesh
                 </span>
               </h3>
               <p className="text-stone-light leading-relaxed mb-6 max-w-md">
@@ -56,15 +56,15 @@ const Footer = () => {
               <div className="space-y-3 mb-6">
                 <div className="flex items-center space-x-3">
                   <Phone className="w-5 h-5 text-granite-gold" />
-                  <span className="text-stone-light">+91 94908 12345</span>
+                  <span className="text-stone-light">+91 9994182015</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Mail className="w-5 h-5 text-granite-gold" />
-                  <span className="text-stone-light">info@sstones.com</span>
+                  <span className="text-stone-light">contact@ssstone.shop</span>
                 </div>
                 <div className="flex items-start space-x-3">
                   <MapPin className="w-5 h-5 text-granite-gold mt-0.5" />
-                  <span className="text-stone-light">Chittoor, Andhra Pradesh 517001</span>
+                  <span className="text-stone-light">D.No 1, NMC Complex, Main Road, Pakala, Chittoor, Andhra Pradesh, 517112</span>
                 </div>
               </div>
 

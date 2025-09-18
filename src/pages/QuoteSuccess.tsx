@@ -122,16 +122,16 @@ const QuoteSuccess = () => {
                   If you have urgent questions or need to discuss your requirements, feel free to contact us directly.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-3 justify-center">
-                  <a href="tel:+919490812345" className="inline-block">
+                  <a href="tel:+919994182015" className="inline-block">
                     <Button variant="outline" size="sm">
                       <Phone className="w-4 h-4 mr-2" />
-                      Call: +91 94908 12345
+                      Call: +91 9994182015
                     </Button>
                   </a>
-                  <a href="mailto:info@sstones.com" className="inline-block">
+                  <a href="mailto:contact@ssstone.shop" className="inline-block">
                     <Button variant="outline" size="sm">
                       <Mail className="w-4 h-4 mr-2" />
-                      Email: info@sstones.com
+                      Email: contact@ssstone.shop
                     </Button>
                   </a>
                   <Link to="/contact-us">

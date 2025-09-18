@@ -77,9 +77,9 @@ const PrivacyPolicy = () => {
               <p className="mb-6">
                 If you have any questions about this Privacy Policy, please contact us at:
                 <br />
-                <strong>Email:</strong> info@sstones.com
+                <strong>Email:</strong> contact@ssstone.shop
                 <br />
-                <strong>Phone:</strong> +91 94908 12345
+                <strong>Phone:</strong> +91 9994182015
               </p>
             </div>
           </div>

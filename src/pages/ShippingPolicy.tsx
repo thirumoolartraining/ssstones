@@ -45,8 +45,9 @@ const ShippingPolicy = () => {
               
               <h2 className="text-2xl font-semibold text-primary mt-8 mb-4">3. Shipping Destinations</h2>
               <p className="mb-6">
-                We currently ship throughout India. For international shipping inquiries, please contact our customer service team at shipping@sstones.com.
+                We currently ship throughout India. 
               </p>
+              <p>For international shipping inquiries, please contact our customer service team at contact@ssstone.shop.</p>
               
               <h2 className="text-2xl font-semibold text-primary mt-8 mb-4">4. Shipping Rates</h2>
               <p className="mb-4">Shipping rates are calculated based on:</p>
@@ -66,7 +67,7 @@ const ShippingPolicy = () => {
               
               <h2 className="text-2xl font-semibold text-primary mt-8 mb-4">6. Delivery Issues</h2>
               <p className="mb-6">
-                If you encounter any issues with your delivery, such as damaged packages or incorrect items, please contact our customer service team immediately at shipping@sstones.com or +91 94908 12345.
+                If you encounter any issues with your delivery, such as damaged packages or incorrect items, please contact our customer service team immediately at contact@ssstone.shop or +91 9994182015.
               </p>
               
               <h2 className="text-2xl font-semibold text-primary mt-8 mb-4">7. Undeliverable Packages</h2>
@@ -83,9 +84,9 @@ const ShippingPolicy = () => {
               <p className="mb-6">
                 If you have any questions about our shipping policy, please contact us at:
                 <br />
-                <strong>Email:</strong> shipping@sstones.com
+                <strong>Email:</strong> contact@ssstone.shop
                 <br />
-                <strong>Phone:</strong> +91 94908 12345
+                <strong>Phone:</strong> +91 9994182015
                 <br />
                 <strong>Business Hours:</strong> Monday - Saturday, 9:00 AM - 6:00 PM IST
               </p>

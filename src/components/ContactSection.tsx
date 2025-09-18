@@ -9,19 +9,19 @@ const ContactSection = () => {
     {
       icon: Phone,
       title: "Phone",
-      content: "+91 98765 43210",
-      link: "tel:+919876543210"
+      content: "+91 9994182015",
+      link: "tel:+919994182015"
     },
     {
       icon: Mail,
       title: "Email",
-      content: "info@regattagranitesindia.com",
-      link: "mailto:info@regattagranitesindia.com"
+      content: "contact@ssstone.shop",
+      link: "mailto:contact@ssstone.shop"
     },
     {
       icon: MapPin,
       title: "Address",
-      content: "Industrial Area, Granite Hub, Rajasthan, India",
+      content: "D.No 1, NMC Complex, Main Road, Pakala, Chittoor, Andhra Pradesh, 517112",
       link: "#"
     },
     {

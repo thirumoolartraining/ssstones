@@ -58,7 +58,7 @@ const ContactUs = () => {
                     <label className="block text-sm font-medium text-primary mb-2">
                       Phone Number
                     </label>
-                    <Input type="tel" placeholder="+91 98765 43210" />
+                    <Input type="tel" placeholder="+91 9994182015" />
                   </div>
                   <div>
                     <label className="block text-sm font-medium text-primary mb-2">
@@ -92,51 +92,56 @@ const ContactUs = () => {
                 <h2 className="text-3xl font-bold text-primary mb-8">Get in Touch</h2>
                 
                 <Card className="border-0 shadow-card">
-                  <CardContent className="p-6">
-                    <div className="flex items-start space-x-4">
-                      <div className="w-12 h-12 bg-granite-gold rounded-full flex items-center justify-center">
-                        <Phone className="w-6 h-6 text-white" />
+                  <a href="mailto:contact@ssstone.shop" className="inline-block">
+                    <CardContent className="p-6">
+                      <div className="flex items-start space-x-4">
+                        <div className="w-12 h-12 bg-granite-gold rounded-full flex items-center justify-center">
+                          <Phone className="w-6 h-6 text-white" />
+                        </div>
+                        <div>
+                          <h3 className="text-lg font-semibold text-primary mb-2">Phone</h3>
+                          <p className="text-muted-foreground">+91 9994182015</p>
+                        </div>
                       </div>
-                      <div>
-                        <h3 className="text-lg font-semibold text-primary mb-2">Phone</h3>
-                        <p className="text-muted-foreground">+91 94908 12345</p>
-                        <p className="text-muted-foreground">+91 98765 43210</p>
-                      </div>
-                    </div>
-                  </CardContent>
+                    </CardContent>
+                  </a>
                 </Card>
 
                 <Card className="border-0 shadow-card">
-                  <CardContent className="p-6">
-                    <div className="flex items-start space-x-4">
-                      <div className="w-12 h-12 bg-granite-gold rounded-full flex items-center justify-center">
-                        <Mail className="w-6 h-6 text-white" />
+                  <a href="mailto:contact@ssstone.shop" className="inline-block">
+                    <CardContent className="p-6">
+                      <div className="flex items-start space-x-4">
+                        <div className="w-12 h-12 bg-granite-gold rounded-full flex items-center justify-center">
+                          <Mail className="w-6 h-6 text-white" />
+                        </div>
+                        <div>
+                          <h3 className="text-lg font-semibold text-primary mb-2">Email</h3>
+                          <p className="text-muted-foreground">contact@ssstone.shop</p>
+                        </div>
                       </div>
-                      <div>
-                        <h3 className="text-lg font-semibold text-primary mb-2">Email</h3>
-                        <p className="text-muted-foreground">info@sstones.com</p>
-                        <p className="text-muted-foreground">sales@sstones.com</p>
-                      </div>
-                    </div>
-                  </CardContent>
+                    </CardContent>
+                  </a>
                 </Card>
 
                 <Card className="border-0 shadow-card">
-                  <CardContent className="p-6">
-                    <div className="flex items-start space-x-4">
-                      <div className="w-12 h-12 bg-granite-gold rounded-full flex items-center justify-center">
-                        <MapPin className="w-6 h-6 text-white" />
+                  <a href="mailto:contact@ssstone.shop" className="inline-block">
+                    <CardContent className="p-6">
+                      <div className="flex items-start space-x-4">
+                        <div className="w-12 h-12 bg-granite-gold rounded-full flex items-center justify-center">
+                          <MapPin className="w-6 h-6 text-white" />
+                        </div>
+                        <div>
+                          <h3 className="text-lg font-semibold text-primary mb-2">Address</h3>
+                          <p className="text-muted-foreground">
+                            SS Stones<br />
+                            D.No 1, NMC Complex, Main Road<br />
+                            Pakala, Chittoor, Andhra Pradesh 517112<br />
+                            India
+                          </p>
+                        </div>
                       </div>
-                      <div>
-                        <h3 className="text-lg font-semibold text-primary mb-2">Address</h3>
-                        <p className="text-muted-foreground">
-                          SS Stones<br />
-                          Chittoor, Andhra Pradesh 517001<br />
-                          India
-                        </p>
-                      </div>
-                    </div>
-                  </CardContent>
+                    </CardContent>
+                  </a>
                 </Card>
 
                 <Card className="border-0 shadow-card">
@@ -165,7 +170,7 @@ const ContactUs = () => {
           <div className="container mx-auto px-4">
             <div className="text-center mb-12">
               <h2 className="text-3xl font-bold text-primary mb-4">Find Us</h2>
-              <p className="text-muted-foreground">Visit our showroom in Chittoor, Andhra Pradesh</p>
+              <p className="text-muted-foreground">Visit our showroom in Pakala, Chittoor, Andhra Pradesh</p>
             </div>
             <div className="bg-muted rounded-lg h-96 flex items-center justify-center">
               <p className="text-muted-foreground">Interactive map will be integrated here</p>

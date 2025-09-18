@@ -44,7 +44,7 @@ const ReturnsExchange = () => {
               <h2 className="text-2xl font-semibold text-primary mt-8 mb-4">3. Return Process</h2>
               <p className="mb-4">To initiate a return, please follow these steps:</p>
               <ol className="list-decimal pl-6 mb-6 space-y-2">
-                <li>Contact our customer service team within 7 days of delivery at returns@sstones.com or +91 94908 12345</li>
+                <li>Contact our customer service team within 7 days of delivery at contact@ssstone.shop or +91 9994182015</li>
                 <li>Provide your order number and reason for return</li>
                 <li>You will receive a Return Authorization Number (RMA) and return instructions</li>
                 <li>Package the item securely with the RMA number clearly visible</li>
@@ -63,7 +63,7 @@ const ReturnsExchange = () => {
               
               <h2 className="text-2xl font-semibold text-primary mt-8 mb-4">6. Damaged or Defective Items</h2>
               <p className="mb-6">
-                If you receive a damaged or defective item, please contact us immediately at returns@sstones.com or +91 94908 12345. We will arrange for a replacement or refund, including return shipping costs.
+                If you receive a damaged or defective item, please contact us immediately at contact@ssstone.shop or +91 9994182015. We will arrange for a replacement or refund, including return shipping costs.
               </p>
               
               <h2 className="text-2xl font-semibold text-primary mt-8 mb-4">7. Return Shipping</h2>
@@ -75,9 +75,9 @@ const ReturnsExchange = () => {
               <p className="mb-6">
                 If you have any questions about our Returns & Exchange policy, please contact us at:
                 <br />
-                <strong>Email:</strong> returns@sstones.com
+                <strong>Email:</strong> contact@ssstone.shop
                 <br />
-                <strong>Phone:</strong> +91 94908 12345
+                <strong>Phone:</strong> +91 9994182015
                 <br />
                 <strong>Business Hours:</strong> Monday - Saturday, 9:00 AM - 6:00 PM IST
               </p>

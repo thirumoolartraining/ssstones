@@ -1,10 +1,10 @@
 import { useEffect } from "react";
+import { CheckCircle, Phone, Package, Truck, Home, ShoppingBag } from "lucide-react";
 import { Link, useLocation } from "react-router-dom";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import { CheckCircle, Package, Truck, Home, ShoppingBag } from "lucide-react";
 
 const OrderSuccess = () => {
   const location = useLocation();
@@ -81,7 +81,7 @@ const OrderSuccess = () => {
                         <li>• You will receive an email confirmation shortly</li>
                         <li>• Tracking information will be sent once your order ships</li>
                         <li>• Estimated delivery time: 5-7 business days</li>
-                        <li>• For any questions, contact our support team</li>
+                        <li>Email: contact@ssstone.shop, contact our support team</li>
                       </ul>
                     </div>
                   </div>
@@ -124,9 +124,10 @@ const OrderSuccess = () => {
                       Contact Support
                     </Button>
                   </Link>
-                  <a href="tel:+919490812345" className="inline-block">
+                  <a href="mailto:contact@ssstone.shop" className="inline-block">
                     <Button variant="outline" size="sm">
-                      Call: +91 94908 12345
+                      <Phone className="w-4 h-4 mr-2" />
+                      Call: +91 9994182015
                     </Button>
                   </a>
                 </div>
