@@ -25,7 +25,9 @@ import QuoteSuccess from "./pages/QuoteSuccess";
 import MyQuotes from "./pages/MyQuotes";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import TermsOfService from "./pages/TermsOfService";
+import TermsAndConditions from "./pages/TermsAndConditions";
 import ReturnsExchange from "./pages/ReturnsExchange";
+import CancellationRefund from "./pages/CancellationRefund";
 import ShippingPolicy from "./pages/ShippingPolicy";
 
 const queryClient = new QueryClient();
@@ -59,7 +61,9 @@ const App = () => (
           {/* Legal Pages */}
           <Route path="/privacy-policy" element={<PrivacyPolicy />} />
           <Route path="/terms-of-service" element={<TermsOfService />} />
+          <Route path="/terms-and-conditions" element={<TermsAndConditions />} />
           <Route path="/returns-exchange" element={<ReturnsExchange />} />
+          <Route path="/cancellation-refund" element={<CancellationRefund />} />
           <Route path="/shipping-policy" element={<ShippingPolicy />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />

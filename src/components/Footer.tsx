@@ -21,8 +21,10 @@ const Footer = () => {
       { name: "FAQ", href: "/faq" },
     ],
     legal: [
-      { name: "Returns & Exchange", href: "/returns-exchange" },
+      { name: "Cancellation & Refund", href: "/cancellation-refund" },
       { name: "Shipping Policy", href: "/shipping-policy" },
+      { name: "Privacy Policy", href: "/privacy-policy" },
+      { name: "Terms & Conditions", href: "/terms-and-conditions" },
     ],
   };
 
